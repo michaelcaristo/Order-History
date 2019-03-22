@@ -1,6 +1,6 @@
 {
   "name": "dvmadmin-order-history",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This is Order History Component",
   "main": "index.js",
   "scripts": {
